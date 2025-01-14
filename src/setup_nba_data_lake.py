@@ -6,7 +6,7 @@ import requests
 #import os
 
 # Load environment variables from .env file
-#load_dotenv()
+##load_dotenv()
 
 # AWS configurations
 region = "us-east-1"  # Replace with your preferred AWS region
